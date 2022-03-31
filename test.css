@@ -1,0 +1,13 @@
+body{
+    background-color: #ffffff;
+}
+
+#test{
+    font-family: Zelda;
+    border: 5px solid #1C6EA4;
+}
+
+@font-face {
+    font-family: Zelda;
+    src: url(font/Zelda.otf);
+}
